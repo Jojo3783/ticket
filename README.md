@@ -1,2 +1,2 @@
 # ticket
-A program that can login kktix automatically
+A program that can log in to KKTIX
